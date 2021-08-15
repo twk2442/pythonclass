@@ -1,5 +1,5 @@
 #dictionary 
-
+#반복문 중쳡 
 persons = {'name':'egoing','address':'seoul','age':'23'} #dictionary형 
 
 print(persons['name'])  
