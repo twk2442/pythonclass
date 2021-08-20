@@ -1,4 +1,5 @@
 #conditional statement
+#조건문 if , elif, else
 
 input_id = input('너의이름은? :')
 id = 'mj'
@@ -9,5 +10,7 @@ elif input_id == id_1 :
     print('welcome to my Home')
 else:
     print('Who are you')
+
+
 
 
